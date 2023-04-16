@@ -32,3 +32,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+!! next.js 사용하는 ㅣㅇ유
+ReactJS = > 풀스택 프레임워크라고 부르는걸 선호
+React 는 사용자 인터페이스를 구축하기 위한 js 라이브러리
+
+Next.js => 리액트상 구축된 프레임워크
+프레임워크와 라이브러리의 차이점으로는 프레임워크 규모가 더욱 큼
+안정적으로 리액트를 사용하기위해! 라고 생각하면됨
