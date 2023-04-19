@@ -78,3 +78,5 @@ NextJS는 필요한 중첩 라우트, 혹은 동적 매개변수를
 1. npx create-next-app
    이후 엔터
 2. 추가 패키지 설치 여부에 Y 설정
+
+3. run npm install 실행
